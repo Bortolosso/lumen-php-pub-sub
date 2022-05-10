@@ -17,4 +17,9 @@ $router->get('/', function () use ($router) {
     return $router->app->version();
 });
 
-$router->get('/return', 'TodosController@getTodo');
+$router->get('/create', 'TodosController@createTopic');
+
+$router->get('/list', 'TodosController@listTopic');
+
+$router->get('/delete', 'TodosController@deleteTopic');
+

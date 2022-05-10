@@ -8,5 +8,5 @@ services:
       - .:/var/www/html
       - /var/www/html/vendor/
     build: .
-    command: php -S lumen:8000 -t public
+    command: php -S 127.0.0.1:8000 -t public
     restart: always

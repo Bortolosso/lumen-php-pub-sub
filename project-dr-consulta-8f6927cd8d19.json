@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "project-dr-consulta",
+    "private_key_id": "8f6927cd8d1970ba9e2b964a08e58dc27a5384f2",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2Elz2uRMe7+3i\nfyJ2HPACfSrAk5S9Vqy9zDHDm3R/oZzEyNGshs4/mAwexDa5KNHrJSHWx6zWZFBK\nnxcY5X6elaPLqNNS3eNlbrR93+4T/Ml26rjN0PN9bmDIbglpMXxOKhd30MCuClFM\n9McDzZPuwfCW4MvMd/XdD07TGCoFPFi/Hal184Nt9fg7gRdXGJuZ4LqURRVTFytx\nqmbfHJHXLE9WQQsTRrawXrSqE0H5VHBDm83Bv5Tw0qGp7mSFtbpeLqmNrPwWLkt6\nxtZv+9rSl4OXAZEtB+CPWcJ6i5FuMX/bvoFI2CWzHBzz7+yKi/kl852HOpxoPY1r\nFEU2uC6jAgMBAAECggEAMFU4m4Bu/H/52O4iAlPVPPvoPP4QdqDLM4lAzqn2Z6lJ\n2g1rZ87TcptU4Ff7JPUaoL8XOBKCpdk0XVLVSVUm40dbF4XmL3Ha20LjpCStaV3q\nR2ixDWYCNVJ3W82mLugllQRkfXiLpcf0ZCb4q+BHfJK8YPkk8M8JlBjrtmsMQJ4c\n7G4GIVnZMqx5B4GOV9tcs19aC2qzCCc872ZwcVdIiVkapaAdCzAFdsHG8vEr4k2q\nvQITWAfDMGXhbXhPjkxHhfy9BCUphPdZYCVuo8peSyx7K4IWmy3u9FJzH2vDoeSV\n6zpOGbGXjqaigFKMShThIRNiAvI7itgumT5ksFWyuQKBgQDreeCD9+Jj+jROnMTh\nJztoERJo3yqWEt7BcftEAypU6SwFrekUQkjVI70J8owTf2Lb0qYWkbBUo/Mr4sKK\nIRVJZ25nvUmrnCfFuox+iH1Id+WEYmd5b0KnY4EEdSS+N1x/NFLseWfmqF7CE7Pw\n8XDRg5jZ7W1yUMVAf7jxc1OZCQKBgQDF8OMki5FnyEDkB9WH1yczczQysS+P35PE\n8trN9U+oDRsmS25Ir1LKU0q6opKNHz28R2S0LVBPKszCmyBj0eiGLbqVoYiVnLAi\na0KnK126JHH/UscxGSYB9xD0FcQha7p3nkHLPX6iM31G/zVJM6j4+W+xzGbh3toB\n3ipDB3rRSwKBgQDniNcx67M3CvYTtiIAIUtQcDjh1U1ScwuEukaOAW7GPt+CVhYw\nTVy/9nwSI+OH6GGUM/QLjQUMtIiORlFy8ES2AHWWm5CspMaWrW8nm51UfE+5c+i6\nhqPLYxOhBm4yes0AZrqCun1nV3aU7jqoVz7PQ84vuj07gh/x46Q+BV/VwQKBgFot\nST4f+4l9eNqqGwS851YQOQqTIGj6YZbLURWdmcGk3uaOXNruTNhyI8xtPjjer8B0\nAhP3xOucQxaxl4sCWV2vvZ5nrhMDBFdZ6E7CefvQmMLKUocyvtcMWQPqWqUjMBtI\n1Q6joGqC7KMIp50G1QdAlDs7NO/YGBfbwAMziCeLAoGBAIz7Y9gtRAmUK8OpHqOn\nh0xzyl4QERyFgkmazxvyRtRShweAwHL3R8Frio0bDWEiT0C3iYHURUAsXmAVmPAM\nyCptiOVw5dk7p33pAHlpAHUlHTZ10DcK/Dd4oJn1XYhFC2JI8RHl976mKIB1hHXO\njpop25v6yIaN5F81MMFR8M0/\n-----END PRIVATE KEY-----\n",
+    "client_email": "projetc-test-dr-consulta@project-dr-consulta.iam.gserviceaccount.com",
+    "client_id": "107463879724265841182",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projetc-test-dr-consulta%40project-dr-consulta.iam.gserviceaccount.com"
+}

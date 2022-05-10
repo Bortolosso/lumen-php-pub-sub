@@ -1,3 +1,20 @@
+# Tutorial Run App
+
+1. docker-compose up --build
+
+Or:
+
+1. php -S 127.0.0.1:8000 -t public
+
+Create Topic:
+-http://localhost:8000/create
+
+List Topic:
+-http://localhost:8000/list
+
+Delete Topic:
+-http://localhost:8000/delete
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
